@@ -7,4 +7,6 @@ Exercices C:
 
 * programme qui calcule le produit scalaire et somme de deux vecteurs
   
-* programme qui inverse une chaîne de caractère 
+* programme qui inverse une chaîne de caractère
+
+* programme qui calcule le produit de deux matrices
